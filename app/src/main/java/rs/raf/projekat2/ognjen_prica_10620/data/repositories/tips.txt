@@ -1,0 +1,1 @@
+Ovde je logika kako hvata podatke, kako ih kombinuje itd

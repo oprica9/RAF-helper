@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_1"
+        android:icon="@drawable/ic_calendar_days_solid"
+        android:title="@string/raspored" />
+    <item
+        android:id="@+id/navigation_2"
+        android:icon="@drawable/ic_note_sticky_solid"
+        android:title="@string/beleske" />
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@drawable/ic_chart_column_solid"
+        android:title="@string/statistika" />
+</menu>

@@ -1,0 +1,7 @@
+bitno je da napravimo neki response model <LectureResponse> koji ce biti anotiran sa JsonClass adapter = true
+onda preko repository-ja mapiramo na ui model,
+u viewmodelu mu govorimo tacno u kom threadu runnujemo i u kom ce da nas obavesti i u koji livedata ce da se ubaci ako je rezultat dobar, kako da ispise gresku
+
+service locators vs
+
+kljucna rec "by" delegira inicijalizaiciju objekta nekom drugom objektu ( by viewModel... ) a taj viewModel je funkcija koja se nalazi u Koinu

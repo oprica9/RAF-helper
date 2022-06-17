@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">rs.raf.projekat2.ognjen_prica_10620</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="pin">PIN</string>
+    <string name="raspored">Raspored</string>
+    <string name="beleske">Beleske</string>
+    <string name="statistika">Statistika</string>
+    <string name="search_by_title_or_content">Search by title or content</string>
+    <string name="this_is_note_title">This is note title</string>
+    <string name="this_is_note_content">This is note content</string>
+    <string name="odustani">Odustani</string>
+    <string name="izmeni">Izmeni</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="archive">Archive</string>
+    <string name="update">Update</string>
+</resources>
